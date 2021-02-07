@@ -1,4 +1,4 @@
-# movieApp1
+# weather app
 
 A new Flutter project.
 
